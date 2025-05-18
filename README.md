@@ -204,3 +204,9 @@ window.chatWidgetConfig = {
 You’ve now deployed a private, secure, self-hosted live chat system powered by Telegram.
 
 Visitors chat from your website → you reply from Telegram → your replies appear in real time.
+
+* * *
+
+## License
+
+This script is open source under the [MIT License](LICENSE).
