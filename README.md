@@ -210,3 +210,9 @@ Visitors chat from your website → you reply from Telegram → your replies app
 ## License
 
 This script is open source under the [MIT License](LICENSE).
+
+* * *
+
+### Contact
+
+Created by [@neoslab](https://neoslab.com/contact/) – Feel free to reach out!
